@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Whipster Code Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: beauxespirit@gmail.com
+copyright_name: The Whipster Code Blog
+description: "Mostly about code. "
 baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+twitter_username: beauxespirits
+github_username:  djshrek
+facebook_username:  robert.ho
+email_username:  beauxespirit@gmail.com
 
 # Build settings
 markdown: kramdown
