@@ -4,7 +4,7 @@ header-img: img/the-wash-4.jpg
 email: beauxespirit@gmail.com
 copyright_name: The Whipster Code Blog
 description: "Mostly about code. "
-baseurl: "/jekyllblog"
+baseurl: "/blog"
 url: "http://yourdomain.com"
 twitter_username: beauxespirits
 github_username:  djshrek
