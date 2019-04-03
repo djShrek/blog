@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Book Report: Atomic Habits"
-date:       "2019-03-31 12:26:00"
+date:       "2019-03-30 11:26:00"
 author:     "bearcat"
 ---
 
