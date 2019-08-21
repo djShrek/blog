@@ -2,7 +2,8 @@
 layout:     post
 title:      "Book Report: Essentialism"
 date:       "2019-02-27 10:43:00"
-author:     "bearcat"
+author:     "beauxespirits"
+comments:   true
 ---
 
 We now live in a time where we can literally choose almost any career, buy almost anything off the internet, hear just about everyone's opinion, and view all the fun and adventures everyone else enjoying. But with that comes a cost: having the pressures of choosing the “right” career for yourself (Be a doctor or an actor?), having to decide whether you should buy yet another electronic on sale on Amazon, having to read Facebook posts of your liberal cousin defending his political beliefs against with his Trump-supporting conservative dad (actually happening to me), and literally watching everyone travel the world on Instagram while feeling a sense of FOMO. With so many options available, so much pressure from many different opinions, and the idea that I can have it all, how do I choose what is “essential” for myself? The solution, according to Greg McKeown, is Essentialism,  *a “disciplined, systematic approach for determining where your highest point of contribution lies, and then making execution of those things almost effortlessly. *After perusing through 20+ chapters of Essentialism, not only did I find a book that teaches you how to gracefully tell people “no” but also learned about a framework that teaches you how to make the highest contribution to what is most important in one's life. 

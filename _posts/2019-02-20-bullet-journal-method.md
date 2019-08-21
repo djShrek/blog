@@ -2,7 +2,8 @@
 layout:     post
 title:      "Book Report: The Bullet Journal Method"
 date:       "2019-02-20 9:30:00"
-author:     "bearcat"
+author:     "beauxespirits"
+comments:   true
 ---
 
 For a long time, I've had a difficult time tracking all the various goals that I wanted to accomplish in my life. I would use [insert random habit tracking app here] to keep track of habits and then use another random note taking software (like Evernote) to keep track of my progress of the same habits. This was not very efficient since the apps would pile up the data collected would be spread across these apps. Another issue I've always had was that I would write important ideas or thoughts on random notes and then lose or misplace those notes. It was frustrating to not have a “single source of truth” where I stored all of this important “life” data that I needed to keep track of. Then one day I came across a video about “Bullet Journaling,” a method that helps you keep track of your goals, thoughts, and life events all in one place.  It was an analog solution, so the barrier to entry was low since the only two things needed were a pen and notebook. It turned out to be a great solution for me and since then I've been practicing for a few years. But one day, I serendipitously found out that the creator of the Bullet Journal method wrote a book about the method, so I decided to read it with the hopes of improving my journaling technique. After finishing the book, I've not only formed a better habit of journaling, but have been able to better manage my time, consistently  accomplish tasks that I usually would put off (like writing this post!), and have been more mindful of the future. It was an easy read with a lot of ROI, so I am going to make some effort on this review. 

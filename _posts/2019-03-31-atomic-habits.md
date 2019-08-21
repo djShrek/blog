@@ -2,7 +2,8 @@
 layout:     post
 title:      "Book Report: Atomic Habits"
 date:       "2019-03-30 11:26:00"
-author:     "bearcat"
+author:     "beauxespirits"
+comments:   true
 ---
 
 Atomic Habits by James Clear is about how habits work and how to improve your good habits and/or eliminate your bad ones. The author begins by highlighting how one can change their behaviors by consistently making small improvements everyday. The term “atomic habit” refers to a habit that is at its “smallest” (and implicitly easiest) form. For example, when starting a habit of going to the gym to work out, the “smallest” form of the habit is not the act of working out, but simply entering the front door of the gym. Whatever happens after entering the gym is up to you. Once going to gym on a daily basis becomes a habit, you enter the next phase, which could be forming a habit of walking on the treadmill, picking up a weight, or doing some push-ups. The purpose of doing “atomic habits” is so that one can aim for marginal gains; the author even goes to suggest consistently aiming for 1 percent improvement. The sum of daily 1 percent improvement compounds and eventually your efforts turn into the results you are looking for. Atomic habits are also the building blocks of the overall systems that govern your behavior. The author suggests that if you have trouble changing your habits, it is because you don't have the proper system in place for changing those habits. Change in any behavior involves 3 components:
