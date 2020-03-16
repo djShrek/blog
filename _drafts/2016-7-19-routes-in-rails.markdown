@@ -2,7 +2,7 @@
 layout:     post
 title:      "Naming Routes in Rails"
 date:       2016-07-19 12:00:00
-author:     "beauxespirits"
+author:     "bearcat"
 ---
 
 <p>Other than typing my standard resources :posts to routes, mapping routes to

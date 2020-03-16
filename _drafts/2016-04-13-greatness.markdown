@@ -2,7 +2,7 @@
 layout:     post
 title:      "Greatness"
 date:       2016-04-14 1:14:31
-author:     "beauxespirits"
+author:     "bearcat"
 header-img: "img/post-bg-05.jpg"
 ---
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Introduction to RESTful Architecture"
 date:       2016-07-11 12:00:00
-author:     "beauxespirits"
+author:     "bearcat"
 ---
 
 <h1>What is RESTful architecture?</h1>
