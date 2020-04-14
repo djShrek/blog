@@ -7,4 +7,4 @@ author:     "bearcat"
 
 ## Player Sessions
 
-If we look at our routes by doing mix phx.routes, we will see a list if routes. One in particular is "game_path  GET  /games/:id                             PointPokeFrontWeb.GameController :play," which is the route to our current pointing poker session.
+If we look at our routes by doing mix phx.routes, we will see a list if routes. One in particular is "game_path  GET  /games/:id PointPokeFrontWeb.GameController :play," which is the route to our current pointing poker session.
