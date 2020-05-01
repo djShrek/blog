@@ -9,3 +9,4 @@ During the COVID-19 shutdown, I decided to watch all of Star Trek TNG and notice
 
 1. Terri Hatcher (episode)
 2. James Cromwell
+3. Ashley Judd (The Game, Darmok)
