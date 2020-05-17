@@ -12,3 +12,4 @@ During the COVID-19 shutdown, I decided to watch all of Star Trek TNG and notice
 3. Ashley Judd (The Game, Darmok)
 4. Kelsey Grammar (Cause and Effect)
 5. Famke Jansen (The Perfect Mate)
+6. Kirsten Dunst (Dark Page)

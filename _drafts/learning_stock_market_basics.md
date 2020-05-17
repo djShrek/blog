@@ -7,6 +7,10 @@ author:     "bearcat"
 
 # Learning The Basics
 
+With the stock market being so much in the media, I finally took it upon myself to learn a little bit more about investing in the stock market. Because of the current state of the economy as portrayed by the media, I believe that the stock market should go down in general as a whole, and if the stock market is down, there might be an opportunity to buy stocks for a low price. However, I realized that I don't really know anything about investing in the stock market in general. I don't know how to determine if one stock is a better buy than the other. Should I buy Shopify stock that is currently going for $700 something bucks or the Carnival Cruise stock that looks like it keeps going lower and lower? Because I don't have any of the answers, I decided it was time to do some studying. 
+
+The resource I am going to use is a book called "The Neastest Little Guide to Stock Market Investing." The book is more than 10 years old so the information it has on modern companies might be a little oudated, but the principles of investing should be the same nonetheless. With these principles in mind, I will apply them to GoDaddy stock to determine if GoDaddy stock is a good buy.
+
 ## Growth Investing vs Value Investing
 
 ## Fundamental Analysis vs Technical Analysis
@@ -39,3 +43,8 @@ The Price Book ratio compares a stock's price to how much the stock is worth rig
 
 Return on equity shows you the rate of return to shareholdrs by dividing net income by total shareholders equity. Bigger is always better with this number because it means the company is making a lot of money off the investments that shareholders have made. A good return on equity is anything above 20 percent. 
 
+### Price/Sales
+
+In the book, research done by an investor named James O'Shaughnessy (author of the book What Works on Wall Street) found that the two best value measures for stocks are Price/Sales for companies of all sizes and dividend yield for large companies.
+
+ 
