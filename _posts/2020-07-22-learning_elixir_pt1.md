@@ -1,11 +1,14 @@
 ---
 layout:     post
 title:      "Learning Elixir Pt. 1"
-date:       2020-2-17 13:28:00
+date:       2020-7-22 13:28:00
 author:     "bearcat"
+tags:       programming elixir
 ---
 
-# Learning Elixir Pt. 1: Hello world? Nah, gimme the health and mana points!
+# Hello world! in Elixir? Nah, gimme the health and mana points!
+
+---
 
 Elixir is a functional, concurrent programming language. Unlike Ruby, which is object-oriented, the state of Elixir _things_ are immutable. 
 
@@ -56,4 +59,3 @@ Running ```IEX character.ex``` will immediately return "100 HP left" and "200 MP
 A short cut to all of this is to simply load the entire context of the directory to iex. You can do this by running this command in the terminal: ```iex -S mix``` , which will load your all of the files in the current directory into the interactive shell. From here, I can run any functions from the character.ex file without having to explicitly load it.
 
 Becoming 1% better every day!
-
