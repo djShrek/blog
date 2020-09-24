@@ -120,7 +120,5 @@ The Ingredient class is also decoupled from the Potion class and be used in othe
 
 As you can see in our example, the Potion class is never "opened" for modification, but instead its behaviors are extended with passing in the necessary objects. The behavior of the Potion is delegated to its ingredients where the ingredients do the actual work. It doesn't need to know anything about health, mana, dragon's blood etc. and the ingredients only need to implement a common interface. This makes separates the concerns of both objects and makes these classes flexible and robust. Another small but important benefit to this pattern is that each class focuses on a single responsibility, or the "S" in SOLID, so the Strategy Pattern actually represents two out of the 5 SOLID principles, but I wanted to highlight the pattern in the context of the Open-Closed principle. Other ways of changing an algorithm by using classes include the Template pattern, which uses inheritance instead of composition, but that would be for another post. 
 
-
-
-
+Becoming 1% better every day!
 
