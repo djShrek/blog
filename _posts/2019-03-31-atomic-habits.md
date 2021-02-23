@@ -45,6 +45,8 @@ big organized collection of blog posts. It turned out to be a a well written boo
 
 This book is for anyone that is looking to improve the habits in their lives. Habits govern your limits. Anyone who is looking to make improvements on those limits should read this book. It will teach them how to build better habits. It will give them the tools to determine why they would have succeeded or failed in building those habits. And most importantly, it will force you to think about the habits you currently have and be more aware of what those habits are and the driving factors of those habits. 
 
+## Pros and Cons
+
 The pros of this book is that the author provides an easy framework to develop better habits and provides examples of how others have achieved or failed at doing so. The process is straight forward and is derived from actual behavior psychology (Pavlovian techniques). Another pro is that this book is easy to read and it doesn't require deep knowledge of behavioral psychology. Both scientific and real-world evidence is used to back his claims and techniques.
 
 I definitely got what I wanted from the book as I am applying the techniques I learn from the book to my life. It was a great read and I liked it so much that I have read the book multiple times and listened to the e-book version on my car rides to work. 
