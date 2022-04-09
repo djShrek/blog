@@ -19,8 +19,6 @@ A better solution is to use a Docker image that contains all the information and
 
 ### What is a docker image?
 
-
-
 ### What is a docker container?
 
 ### How to create a Docker container

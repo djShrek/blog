@@ -5,6 +5,15 @@ date:       2021-11-13 20:30:00
 author:     "bearcat"
 ---
 
+There is an extension called Visual Studio Code Remote - Containers that lets you use a Docker container as a full-featured development environment. Per the docs
+
+```
+It allows you to open any folder inside (or mounted into) a container and take advantage of VS Code's full feature set.
+```
+
+All you need is a devcontainer.json file in your project which tells VS Code how to create the dev container.
+
+
 How to open a file directory in a remote container with vscode:
 
 1. Press F1 in vscode and select Remote Container: Open Folder in container
