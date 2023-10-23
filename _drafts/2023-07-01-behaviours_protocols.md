@@ -2,7 +2,7 @@
 layout:     post
 title:      "Behaviours and Protocols"
 date:       2023-07-01 22:00:00
-author:     "bearcat"
+author:     "bobby"
 tags:       "til behaviours protocols"
 ---
 

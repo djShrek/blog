@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learning how to use RSpec hooks, DatabaseCleaner gem, and let vs let! by doing."
 date:       2018-09-18 9:30:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 The company that I do contract work for has a web application written in Ruby on Rails. To my surprise,

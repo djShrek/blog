@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learning Docker Pt. 1"
 date:       2021-11-13 20:30:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
  I watched a video that advocated for using Docker to develop locally so that you wouldn't have to worry about having any issues or conflicts in your local environment. Here is a list of things I learned:

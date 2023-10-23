@@ -2,7 +2,7 @@
 layout:     post
 title:      "Docker containers and images (Part 1)"
 date:       2023-06-17 22:00:00
-author:     "bearcat"
+author:     "bobby"
 tags:       "til docker"
 ---
 

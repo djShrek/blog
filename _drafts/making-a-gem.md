@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learning to create my first Gem"
 date:       2019-08-24 2:35:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 Part of my study work flow is using a flash card software called Anki. Anki helps create virtual flash cards as study material so you can review what you have learned. Creating the flash cards one by one is what one usually would do, but I like to also

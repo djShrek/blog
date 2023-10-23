@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learning Stock Market Basics Part: 1"
 date:       2020-04-21 2:35:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 # Learning The Basics

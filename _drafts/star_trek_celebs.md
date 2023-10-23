@@ -2,7 +2,7 @@
 layout:     post
 title:      "Guest appearances on Star Trek: TNG"
 date:       2019-08-24 2:35:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 During the COVID-19 shutdown, I decided to watch all of Star Trek TNG and noticed a few guest start appearances. These include:

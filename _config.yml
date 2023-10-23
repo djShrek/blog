@@ -1,8 +1,8 @@
 # Site settings
-title: The bearcat blog
+title: Bobby's Code Blog
 header-img: img/the-wash-4.jpg
 email: beauxespirit@gmail.com
-copyright_name: The bearcat blog
+copyright_name: Bobby's Code Blog
 description: "Mostly about code. "
 baseurl: "/blog"
 url: "http://yourdomain.com"

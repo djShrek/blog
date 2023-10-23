@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learning Docker Pt. 2"
 date:       2021-11-13 20:30:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 In the previous post, I talked about why we should use Docker in development.

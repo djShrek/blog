@@ -2,7 +2,7 @@
 layout:     post
 title:      "Book Report: Essentialism"
 date:       "2019-02-27 10:43:00"
-author:     "bearcat"
+author:     "bobby"
 comments:   true
 ---
 

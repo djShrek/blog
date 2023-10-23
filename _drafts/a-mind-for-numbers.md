@@ -2,7 +2,7 @@
 layout:     post
 title:      "Book Review: A Mind for Numbers"
 date:       2020-2-17 13:28:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 This book is the book I wish I had read during my time at UCSD. I was a biology major

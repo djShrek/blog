@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learning How Git Rebase Works Pt. 1"
 date:       2022-02-04 13:28:00
-author:     "bearcat"
+author:     "bobby"
 tags:       programming git
 ---
 

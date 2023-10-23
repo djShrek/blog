@@ -2,7 +2,7 @@
 layout:     post
 title:      "What is Jekyll"
 date:       2023-06-20 22:00:00
-author:     "bearcat"
+author:     "bobby"
 tags:       "til jekyll"
 ---
 

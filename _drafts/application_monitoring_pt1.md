@@ -2,7 +2,7 @@
 layout:     post
 title:      "Monitoring and Alerting Notes Pt. 1"
 date:       2020-7-29 10:00:00
-author:     "bearcat"
+author:     "bobby"
 tags:       monitoring
 ---
 

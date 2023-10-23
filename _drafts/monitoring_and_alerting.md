@@ -2,7 +2,7 @@
 layout:     post
 title:      "Monitoring and Alerting Pt. 1"
 date:       2020-07-24 2:35:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 Determining causality when your application is experiencing emergent system events requires you to do 3 things:

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Exploring Elixir vscode extensions"
 date:       2023-01-29 22:00:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 ## INTRO 

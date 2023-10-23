@@ -2,7 +2,7 @@
 layout:     post
 title:      "Docker File TIL"
 date:       2023-08-05 22:00:00
-author:     "bearcat"
+author:     "bobby"
 tags:       "til docker dockerfile"
 ---
 

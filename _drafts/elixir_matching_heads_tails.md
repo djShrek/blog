@@ -2,7 +2,7 @@
 layout:     post
 title:      "Pattern Matching Using Heads and Tails"
 date:       2020-4-3 13:28:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 When using [head | tail], if you have a list that has one element, and you do tail, you

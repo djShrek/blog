@@ -2,7 +2,7 @@
 layout:     post
 title:      "Project based learning to learn Elixir: Part 3"
 date:       2020-4-3 13:28:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 ## Player Sessions

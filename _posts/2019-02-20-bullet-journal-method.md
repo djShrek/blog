@@ -2,7 +2,7 @@
 layout:     post
 title:      "Book Report: The Bullet Journal Method"
 date:       "2019-02-20 9:30:00"
-author:     "bearcat"
+author:     "bobby"
 comments:   true
 ---
 

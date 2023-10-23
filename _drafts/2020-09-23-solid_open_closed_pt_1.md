@@ -2,7 +2,7 @@
 layout:     post
 title:      "SOLID Principles in Ruby: Open Closed Principle Pt. 1"
 date:       2020-09-15 20:27:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 The "O" in SOLID Principles represents the Open/Closed principle. This means that your code

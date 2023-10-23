@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learning Elixir Pt. 1"
 date:       2020-7-22 13:28:00
-author:     "bearcat"
+author:     "bobby"
 tags:       programming elixir
 ---
 

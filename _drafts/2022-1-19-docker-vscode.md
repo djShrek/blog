@@ -2,7 +2,7 @@
 layout:     post
 title:      "Using Docker with vscode as IDE"
 date:       2021-11-13 20:30:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 ## INTRO
