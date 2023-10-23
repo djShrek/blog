@@ -5,24 +5,30 @@ date:       2021-11-13 20:30:00
 author:     "bearcat"
 ---
 
+## INTRO
+
+Historically I've always programmed on a Mac due to the fact that the start-ups I worked for preferred using tools
+that were more "friendly" to a Unix-ish system. But after I built my new gaming PC, I decided that I also wanted to use the comp
+for developing my side projects. In the past, using Ruby on windows required installing additional software like Cygwin and configuring
+it was a hassle. Because of this, I thought this would be a good opportunity to use Docker so that I could run Ruby (or any programming language)
+apps on my new Windows PC.
+
+## USING VSCODE AS AN IDE WITH DOCKER
+
 There is an extension called Visual Studio Code Remote - Containers that lets you use a Docker container as a full-featured development environment. Per the docs
 
 ```
 It allows you to open any folder inside (or mounted into) a container and take advantage of VS Code's full feature set.
 ```
 
-All you need is a devcontainer.json file in your project which tells VS Code how to create the dev container.
+All you need is a devcontainer.json file in your project which tells VS Code how to create the development container with a well-defined tool and runtime stack. 
 
+You can also use a pre-defined devcontainer configuration file (eithe created by Docker or by the Docker community) to help you get started. For example, you can use the pre-defined configuration file for a new Ruby/Rails/Postgres project and the configuration file will install Ruby, Rails, necessary Gems, and Postgres to the Docker container. From there, you can do something like 
 
-How to open a file directory in a remote container with vscode:
+```
+rails new blog
+```
 
-1. Press F1 in vscode and select Remote Container: Open Folder in container
-2. Then choose the directory in which you want mount to Docker
-3. Once this is done, vscode will ask you to select a predefined container definition. These containers will contain any tools or libraries you need to get started on your project. If any are missing, you can always add more later.
-4. Once step 3 is done, you will remote access to the docker container with the environment setup.
+and Rails will generate a new project. The files created in the container will also exist on your local machine, so you can edit them locally while working in the container.
 
-## Developing inside a Container
-
-The Visual Studio code Remote - Containers extention lets you use a Docker container as a full-featured development environment.
-
-## What is a docker container?
+Once that is setup, you can quickly start working on your projects regardless of original OS

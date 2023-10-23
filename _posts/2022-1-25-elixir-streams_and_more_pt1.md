@@ -2,7 +2,7 @@
 layout:     post
 title:      "Elixir Streams, ParallelStreams, Flow and GenStage"
 date:       2022-02-25 20:30:00
-author:     "bearcat"
+author:     "bearcats"
 ---
 
 ## What are Streams and what are they used for?

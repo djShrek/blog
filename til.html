@@ -1,0 +1,21 @@
+---
+layout: page
+title: "TIL"
+description: "Today I Learned"
+header-img: "img/skwad.jpg"
+---
+
+{% for tag in site.tags %}
+  {% if tag[0] == "til" %}
+  <ul id="til">
+    {% for post in tag[1] %}
+      <li>
+         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+         <aside>
+            {{ post.date | date_to_string: "ordinal", "US" }}
+         </aside>
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+{% endfor %}

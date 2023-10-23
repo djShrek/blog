@@ -16,7 +16,9 @@ use git rebase. That ends today.
 
 Historically, I've always used the "merge" command because it was what I learned first and what I
 was familiar with. If I needed to pull any remote changes from master, I would do a `git pull`, which does a `git fetch`
-followed by a `git merge`. One day I was pair programming with a co-worker and I saw that they used the --rebase flag like this:
+followed by a `git merge`. 
+
+One day I was pair programming with a co-worker and I saw that they used the --rebase flag like this:
 
 ```
 git pull --rebase origin master

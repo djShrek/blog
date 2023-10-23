@@ -1,8 +1,8 @@
 # Site settings
-title: Whipster Code Blog
+title: The bearcat blog
 header-img: img/the-wash-4.jpg
 email: beauxespirit@gmail.com
-copyright_name: The Whipster Code Blog
+copyright_name: The bearcat blog
 description: "Mostly about code. "
 baseurl: "/blog"
 url: "http://yourdomain.com"
