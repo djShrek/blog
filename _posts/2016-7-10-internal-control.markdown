@@ -2,7 +2,7 @@
 layout:     post
 title:      "Internal Control"
 date:       2016-07-11 00:47:00
-author:     "bearcat"
+author:     "bobby"
 ---
 
 <p>In order to achieve a certain level of happiness, one must have internal control. Internal control is how you control your internal state (your thoughts and feelings). Often times we allow external circumstances to dictate our internal state, but external circumstances should only dictate our external state of life. How we feel and think about each and every experience of our life should be our own conscious choice and responsibility.</p>
